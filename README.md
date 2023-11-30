@@ -1,2 +1,2 @@
 # Windows-assistant
-Gp. members- Shivam Rana, Aryan Verma, Jatin Mangwani
+Gp. members- Shivam Rana, Suparn Gautam
